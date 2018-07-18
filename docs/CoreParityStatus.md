@@ -4,7 +4,7 @@
 
 | Name | Status | Notes |
 |------|--------|-------------|
-| ActivityIndicator | Ready |  |
+| ActivityIndicator | Ready | Not working for WPF App  |
 | ARTGroup | Not Started |  |
 | ARTShape | Not Started |  |
 | ARTSurfaceView | Not Started |  |
